@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @omkarbasnet
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning information technology
-- 💞️ I’m looking to collaborate on software company
-- 📫 How to reach me Basnetomkar0@gmail,com
+### Hi, I'm Omkar 👋
 
-<!---
-omkarbasnet1/omkarbasnet1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Master's in Computer Science, graduating December 2026
+💻 Full-Stack Developer — Python | React | SQL | REST APIs
+🚀 Currently building full-stack web projects and sharpening my skills for the US tech job market
+📫 Reach me: basnetomkar0@gmail.com | https://www.linkedin.com/in/omkar-basnet-204ba920a | omkar.basnet.com.np
+
+**Skills:** Python, Django/Flask, JavaScript, React, Git/GitHub, SQL, HTML/CSS
+
+**What I'm working on:** Building real-world full-stack applications — check my pinned repos below!
